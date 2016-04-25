@@ -1,0 +1,19 @@
+{
+    "name": "pathaksa/fortumo",
+    "description": "Fortumo API - PHP wrapper",
+    "license": "GPL",
+    "keywords": ["fortumo", "api", "php", "wrapper", "prs", "mo", "mt", "premium sms", "mobile billing"],
+    "authors": [
+        {
+            "name": "Pathaksa Tongpitak",
+            "email": "pathaksa.tongpitak@pressclick.nl"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Fortumo\\": "src/Fortumo"
+        }
+    }
+}
